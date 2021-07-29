@@ -1,6 +1,6 @@
-Title: Three.js Custom BufferGeometry
-Description: How to make your own BufferGeometry.
-TOC: Custom BufferGeometry
+Title: BufferGeometry personnalisé en Three.js
+Description: Comment créé vos propres BufferGeometry.
+TOC: BufferGeometry personnalisé
 
 `BufferGeometry` is three.js's way of representing all geometry. A `BufferGeometry`
 essentially a collection *named* of `BufferAttribute`s.
